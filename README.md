@@ -128,9 +128,7 @@ The original 30-dimensional dataset after PCA projection.
 
 Visualization of the Fidelity Quantum Kernel generated from the training samples.
 
-```markdown
 ![Kernel Matrix](figures/kernel_matrix.png)
-```
 
 ---
 
