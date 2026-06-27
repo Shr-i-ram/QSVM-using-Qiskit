@@ -118,9 +118,8 @@ The resulting kernel matrix is supplied to a classical Support Vector Machine fo
 
 The original 30-dimensional dataset after PCA projection.
 
-```markdown
+
 ![Dataset](figures/dataset.png)
-```
 
 ---
 
@@ -134,25 +133,21 @@ Visualization of the Fidelity Quantum Kernel generated from the training samples
 
 ## Classical SVM Confusion Matrix
 
-```markdown
 ![Classical Confusion Matrix](figures/confusion_classical.png)
-```
 
 ---
 
 ## Quantum SVM Confusion Matrix
 
-```markdown
 ![Quantum Confusion Matrix](figures/confusion_quantum.png)
-```
+
 
 ---
 
 ## Accuracy Comparison
 
-```markdown
 ![Accuracy Comparison](figures/accuracy_comparison.png)
-```
+
 
 ---
 
